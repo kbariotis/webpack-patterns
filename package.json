@@ -1,13 +1,13 @@
 {
   "name": "webpack-patterns",
   "version": "1.0.0",
-  "description": "",
+  "description": "A list of common webpack patterns",
   "main": "index.js",
   "scripts": {
     "lint": "standard"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Kostas Bariotis <konmpar@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "standard": "^8.6.0"
   }
