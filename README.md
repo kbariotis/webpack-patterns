@@ -6,6 +6,3 @@ used on my projects.
 
 ## Contribute
 Send a PR with your pattern or open an [issue](https://github.com/kbariotis/webpack-patterns/issues)
-
-## License
-MIT
