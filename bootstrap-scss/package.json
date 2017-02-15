@@ -1,0 +1,22 @@
+{
+  "name": "webpack-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "config": "^1.25.1",
+    "css-loader": "^0.26.1",
+    "file-loader": "^0.10.0",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.1"
+  }
+}

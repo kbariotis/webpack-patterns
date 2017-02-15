@@ -1,0 +1,14 @@
+{
+  "name": "webpack-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "^8.6.0"
+  }
+}
