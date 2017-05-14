@@ -1,0 +1,8 @@
+{
+  "graphql": {
+    "endpoint": "https://api.example.com/graphql"
+  },
+  "sentry": {
+    "is_enabled": true
+  }
+}
