@@ -1,5 +1,5 @@
 {
-  "name": "webpack-patterns-bootstrap",
+  "name": "webpack-patterns-config",
   "version": "1.0.0",
   "dependencies": {
     "config": "^1.26.1",
